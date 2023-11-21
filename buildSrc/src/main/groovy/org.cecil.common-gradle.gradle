@@ -1,8 +1,8 @@
 plugins {
     id 'java'
     id 'checkstyle'
-    id 'com.diffplug.spotless' version '6.22.0'
-    id 'io.freefair.lombok' version '8.4'
+    id 'com.diffplug.spotless'
+    id 'io.freefair.lombok'
 }
 
 version = '1.0.0'
